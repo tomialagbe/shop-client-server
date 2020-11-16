@@ -1,0 +1,265 @@
+INFO  [2020-11-15 13:11:54,313] io.dropwizard.server.DefaultServerFactory: Registering jersey handler with root path prefix: /
+INFO  [2020-11-15 13:11:54,316] io.dropwizard.server.DefaultServerFactory: Registering admin handler with root path prefix: /
+INFO  [2020-11-15 13:11:54,482] org.hibernate.Version: HHH000412: Hibernate ORM core version 5.4.23.Final
+INFO  [2020-11-15 13:11:54,783] io.dropwizard.hibernate.SessionFactoryFactory: Entity classes: [com.tomi.shop.core.Product]
+INFO  [2020-11-15 13:11:54,828] org.hibernate.annotations.common.Version: HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+INFO  [2020-11-15 13:11:56,061] org.hibernate.dialect.Dialect: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+WARN  [2020-11-15 13:11:57,935] org.hibernate.engine.jdbc.spi.SqlExceptionHelper: SQL Error: 1146, SQLState: 42S02
+ERROR [2020-11-15 13:11:57,936] org.hibernate.engine.jdbc.spi.SqlExceptionHelper: Table 'test.products' doesn't exist
+INFO  [2020-11-15 13:11:57,958] org.hibernate.engine.internal.StatisticalLoggingSessionEventListener: Session Metrics {
+    86575 nanoseconds spent acquiring 1 JDBC connections;
+    63132 nanoseconds spent releasing 1 JDBC connections;
+    36985679 nanoseconds spent preparing 1 JDBC statements;
+    24518368 nanoseconds spent executing 1 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    37039 nanoseconds spent executing 1 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+INFO  [2020-11-15 13:15:53,043] io.dropwizard.server.DefaultServerFactory: Registering jersey handler with root path prefix: /
+INFO  [2020-11-15 13:15:53,046] io.dropwizard.server.DefaultServerFactory: Registering admin handler with root path prefix: /
+INFO  [2020-11-15 13:15:53,307] org.hibernate.Version: HHH000412: Hibernate ORM core version 5.4.23.Final
+INFO  [2020-11-15 13:15:53,764] io.dropwizard.hibernate.SessionFactoryFactory: Entity classes: [com.tomi.shop.core.Product]
+INFO  [2020-11-15 13:15:53,843] org.hibernate.annotations.common.Version: HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+INFO  [2020-11-15 13:15:54,944] org.hibernate.dialect.Dialect: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+WARN  [2020-11-15 13:15:57,239] org.hibernate.engine.jdbc.spi.SqlExceptionHelper: SQL Error: 1146, SQLState: 42S02
+ERROR [2020-11-15 13:15:57,239] org.hibernate.engine.jdbc.spi.SqlExceptionHelper: Table 'test.products' doesn't exist
+INFO  [2020-11-15 13:15:57,258] org.hibernate.engine.internal.StatisticalLoggingSessionEventListener: Session Metrics {
+    240360 nanoseconds spent acquiring 1 JDBC connections;
+    135631 nanoseconds spent releasing 1 JDBC connections;
+    37688032 nanoseconds spent preparing 1 JDBC statements;
+    16080025 nanoseconds spent executing 1 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    51417 nanoseconds spent executing 1 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+INFO  [2020-11-15 13:18:27,202] io.dropwizard.server.DefaultServerFactory: Registering jersey handler with root path prefix: /
+INFO  [2020-11-15 13:18:27,205] io.dropwizard.server.DefaultServerFactory: Registering admin handler with root path prefix: /
+INFO  [2020-11-15 13:18:27,389] org.hibernate.Version: HHH000412: Hibernate ORM core version 5.4.23.Final
+INFO  [2020-11-15 13:18:27,714] io.dropwizard.hibernate.SessionFactoryFactory: Entity classes: [com.tomi.shop.core.Product]
+INFO  [2020-11-15 13:18:27,767] org.hibernate.annotations.common.Version: HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+INFO  [2020-11-15 13:18:28,887] org.hibernate.dialect.Dialect: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+WARN  [2020-11-15 13:18:30,739] org.hibernate.engine.jdbc.spi.SqlExceptionHelper: SQL Error: 1146, SQLState: 42S02
+ERROR [2020-11-15 13:18:30,739] org.hibernate.engine.jdbc.spi.SqlExceptionHelper: Table 'test.products' doesn't exist
+INFO  [2020-11-15 13:18:30,753] org.hibernate.engine.internal.StatisticalLoggingSessionEventListener: Session Metrics {
+    93552 nanoseconds spent acquiring 1 JDBC connections;
+    48122 nanoseconds spent releasing 1 JDBC connections;
+    31978541 nanoseconds spent preparing 1 JDBC statements;
+    12771792 nanoseconds spent executing 1 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    59360 nanoseconds spent executing 1 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+INFO  [2020-11-15 13:26:08,054] io.dropwizard.server.DefaultServerFactory: Registering jersey handler with root path prefix: /
+INFO  [2020-11-15 13:26:08,062] io.dropwizard.server.DefaultServerFactory: Registering admin handler with root path prefix: /
+INFO  [2020-11-15 13:26:08,211] org.hibernate.Version: HHH000412: Hibernate ORM core version 5.4.23.Final
+INFO  [2020-11-15 13:26:08,463] io.dropwizard.hibernate.SessionFactoryFactory: Entity classes: [com.tomi.shop.core.Product]
+INFO  [2020-11-15 13:26:08,503] org.hibernate.annotations.common.Version: HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+INFO  [2020-11-15 13:26:09,162] org.hibernate.dialect.Dialect: HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+WARN  [2020-11-15 13:26:10,780] org.hibernate.engine.jdbc.spi.SqlExceptionHelper: SQL Error: 42102, SQLState: 42S02
+ERROR [2020-11-15 13:26:10,781] org.hibernate.engine.jdbc.spi.SqlExceptionHelper: Table "PRODUCTS" not found; SQL statement:
+/* com.tomi.shop.core.Product.count */ select count(product0_.id) as col_0_0_ from products product0_ [42102-200]
+INFO  [2020-11-15 13:26:10,800] org.hibernate.engine.internal.StatisticalLoggingSessionEventListener: Session Metrics {
+    104414 nanoseconds spent acquiring 1 JDBC connections;
+    181233 nanoseconds spent releasing 1 JDBC connections;
+    3589447 nanoseconds spent preparing 1 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    61907 nanoseconds spent executing 1 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+INFO  [2020-11-15 13:27:17,201] io.dropwizard.server.DefaultServerFactory: Registering jersey handler with root path prefix: /
+INFO  [2020-11-15 13:27:17,207] io.dropwizard.server.DefaultServerFactory: Registering admin handler with root path prefix: /
+INFO  [2020-11-15 13:27:17,401] org.hibernate.Version: HHH000412: Hibernate ORM core version 5.4.23.Final
+INFO  [2020-11-15 13:27:17,777] io.dropwizard.hibernate.SessionFactoryFactory: Entity classes: [com.tomi.shop.core.Product]
+INFO  [2020-11-15 13:27:17,823] org.hibernate.annotations.common.Version: HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+INFO  [2020-11-15 13:27:18,631] org.hibernate.dialect.Dialect: HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+INFO  [2020-11-15 13:31:25,234] io.dropwizard.server.DefaultServerFactory: Registering jersey handler with root path prefix: /
+INFO  [2020-11-15 13:31:25,237] io.dropwizard.server.DefaultServerFactory: Registering admin handler with root path prefix: /
+INFO  [2020-11-15 13:31:25,492] org.hibernate.Version: HHH000412: Hibernate ORM core version 5.4.23.Final
+INFO  [2020-11-15 13:31:25,860] io.dropwizard.hibernate.SessionFactoryFactory: Entity classes: [com.tomi.shop.core.Product]
+INFO  [2020-11-15 13:31:25,906] org.hibernate.annotations.common.Version: HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+INFO  [2020-11-15 13:31:27,141] org.hibernate.dialect.Dialect: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  [2020-11-15 13:38:36,925] io.dropwizard.server.ServerFactory: Starting shop-app
+INFO  [2020-11-15 13:38:37,157] org.eclipse.jetty.setuid.SetUIDListener: Opened application@2c6efee3{HTTP/1.1, (http/1.1)}{0.0.0.0:64613}
+INFO  [2020-11-15 13:38:37,157] org.eclipse.jetty.setuid.SetUIDListener: Opened admin@57ac236a{HTTP/1.1, (http/1.1)}{0.0.0.0:64614}
+INFO  [2020-11-15 13:38:37,163] org.eclipse.jetty.server.Server: jetty-9.4.33.v20201020; built: 2020-10-20T23:39:24.803Z; git: 1be68755656cef678b79a2ef1c2ebbca99e25420; jvm 11.0.2+9
+INFO  [2020-11-15 13:38:38,396] io.dropwizard.jersey.DropwizardResourceConfig: The following paths were found for the configured resources:
+
+    GET     /products (com.tomi.shop.resources.ProductResource)
+
+INFO  [2020-11-15 13:38:38,403] org.eclipse.jetty.server.handler.ContextHandler: Started i.d.j.MutableServletContextHandler@4b6942a0{/,null,AVAILABLE}
+INFO  [2020-11-15 13:38:38,412] io.dropwizard.setup.AdminEnvironment: tasks = 
+
+    POST    /tasks/log-level (io.dropwizard.servlets.tasks.LogConfigurationTask)
+    POST    /tasks/gc (io.dropwizard.servlets.tasks.GarbageCollectionTask)
+
+INFO  [2020-11-15 13:38:38,416] org.eclipse.jetty.server.handler.ContextHandler: Started i.d.j.MutableServletContextHandler@3f7d73e3{/,null,AVAILABLE}
+INFO  [2020-11-15 13:38:38,457] org.eclipse.jetty.server.AbstractConnector: Started application@2c6efee3{HTTP/1.1, (http/1.1)}{0.0.0.0:64613}
+INFO  [2020-11-15 13:38:38,459] org.eclipse.jetty.server.AbstractConnector: Started admin@57ac236a{HTTP/1.1, (http/1.1)}{0.0.0.0:64614}
+INFO  [2020-11-15 13:38:38,459] org.eclipse.jetty.server.Server: Started @491589ms
+INFO  [2020-11-15 13:38:44,503] liquibase.executor.jvm.JdbcExecutor: SELECT COUNT(*) FROM test.DATABASECHANGELOGLOCK
+INFO  [2020-11-15 13:38:44,537] liquibase.executor.jvm.JdbcExecutor: CREATE TABLE test.DATABASECHANGELOGLOCK (ID INT NOT NULL, `LOCKED` BIT(1) NOT NULL, LOCKGRANTED datetime NULL, LOCKEDBY VARCHAR(255) NULL, CONSTRAINT PK_DATABASECHANGELOGLOCK PRIMARY KEY (ID))
+INFO  [2020-11-15 13:38:44,634] liquibase.executor.jvm.JdbcExecutor: SELECT COUNT(*) FROM test.DATABASECHANGELOGLOCK
+INFO  [2020-11-15 13:38:44,679] liquibase.executor.jvm.JdbcExecutor: DELETE FROM test.DATABASECHANGELOGLOCK
+INFO  [2020-11-15 13:38:44,710] liquibase.executor.jvm.JdbcExecutor: INSERT INTO test.DATABASECHANGELOGLOCK (ID, `LOCKED`) VALUES (1, 0)
+INFO  [2020-11-15 13:38:44,768] liquibase.executor.jvm.JdbcExecutor: SELECT `LOCKED` FROM test.DATABASECHANGELOGLOCK WHERE ID=1
+INFO  [2020-11-15 13:38:44,807] liquibase.lockservice.StandardLockService: Successfully acquired change log lock
+INFO  [2020-11-15 13:38:45,523] liquibase.changelog.StandardChangeLogHistoryService: Creating database history table with name: test.DATABASECHANGELOG
+INFO  [2020-11-15 13:38:45,529] liquibase.executor.jvm.JdbcExecutor: CREATE TABLE test.DATABASECHANGELOG (ID VARCHAR(255) NOT NULL, AUTHOR VARCHAR(255) NOT NULL, FILENAME VARCHAR(255) NOT NULL, DATEEXECUTED datetime NOT NULL, ORDEREXECUTED INT NOT NULL, EXECTYPE VARCHAR(10) NOT NULL, MD5SUM VARCHAR(35) NULL, `DESCRIPTION` VARCHAR(255) NULL, COMMENTS VARCHAR(255) NULL, TAG VARCHAR(255) NULL, LIQUIBASE VARCHAR(20) NULL, CONTEXTS VARCHAR(255) NULL, LABELS VARCHAR(255) NULL, DEPLOYMENT_ID VARCHAR(10) NULL)
+INFO  [2020-11-15 13:38:45,622] liquibase.executor.jvm.JdbcExecutor: SELECT COUNT(*) FROM test.DATABASECHANGELOG
+INFO  [2020-11-15 13:38:45,634] liquibase.changelog.StandardChangeLogHistoryService: Reading from test.DATABASECHANGELOG
+INFO  [2020-11-15 13:38:45,636] liquibase.executor.jvm.JdbcExecutor: SELECT * FROM test.DATABASECHANGELOG ORDER BY DATEEXECUTED ASC, ORDEREXECUTED ASC
+INFO  [2020-11-15 13:38:45,645] liquibase.executor.jvm.JdbcExecutor: SELECT COUNT(*) FROM test.DATABASECHANGELOGLOCK
+INFO  [2020-11-15 13:38:45,758] liquibase.executor.jvm.JdbcExecutor: CREATE TABLE test.products (id BIGINT AUTO_INCREMENT NOT NULL, name VARCHAR(255) NOT NULL, `description` VARCHAR(255) NOT NULL, picture_url VARCHAR(255) NOT NULL, price DECIMAL(10, 2) NOT NULL, qty_in_stock INT NOT NULL, CONSTRAINT PK_PRODUCTS PRIMARY KEY (id))
+INFO  [2020-11-15 13:38:45,859] liquibase.changelog.ChangeSet: Table products created
+INFO  [2020-11-15 13:38:45,862] liquibase.changelog.ChangeSet: ChangeSet migrations.xml::1::tomi ran successfully in 119ms
+INFO  [2020-11-15 13:38:45,865] liquibase.executor.jvm.JdbcExecutor: SELECT MAX(ORDEREXECUTED) FROM test.DATABASECHANGELOG
+INFO  [2020-11-15 13:38:45,871] liquibase.executor.jvm.JdbcExecutor: INSERT INTO test.DATABASECHANGELOG (ID, AUTHOR, FILENAME, DATEEXECUTED, ORDEREXECUTED, MD5SUM, `DESCRIPTION`, COMMENTS, EXECTYPE, CONTEXTS, LABELS, LIQUIBASE, DEPLOYMENT_ID) VALUES ('1', 'tomi', 'migrations.xml', NOW(), 1, '8:c75d52e1894314e525e04a4d0ff2d760', 'createTable tableName=products', '', 'EXECUTED', NULL, NULL, '3.10.2', '5447525653')
+INFO  [2020-11-15 13:38:45,908] liquibase.lockservice.StandardLockService: Successfully released change log lock
+ERROR [2020-11-15 13:38:49,738] io.dropwizard.jersey.errors.LoggingExceptionMapper: Error handling a request: f5ad97ab7fd15f12
+! org.hibernate.HibernateException: No session currently bound to execution context
+! at org.hibernate.context.internal.ManagedSessionContext.currentSession(ManagedSessionContext.java:58)
+! at org.hibernate.internal.SessionFactoryImpl.getCurrentSession(SessionFactoryImpl.java:479)
+! at io.dropwizard.hibernate.AbstractDAO.currentSession(AbstractDAO.java:44)
+! at io.dropwizard.hibernate.AbstractDAO.namedQuery(AbstractDAO.java:76)
+! at com.tomi.shop.db.ProductDAO.findAll(ProductDAO.java:24)
+! at com.tomi.shop.resources.ProductResource.getAllProducts(ProductResource.java:25)
+! at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+! at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+! at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+! at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+! at org.glassfish.jersey.server.model.internal.ResourceMethodInvocationHandlerFactory.lambda$static$0(ResourceMethodInvocationHandlerFactory.java:52)
+! at org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher$1.run(AbstractJavaResourceMethodDispatcher.java:124)
+! at org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher.invoke(AbstractJavaResourceMethodDispatcher.java:167)
+! at org.glassfish.jersey.server.model.internal.JavaResourceMethodDispatcherProvider$TypeOutInvoker.doDispatch(JavaResourceMethodDispatcherProvider.java:219)
+! at org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher.dispatch(AbstractJavaResourceMethodDispatcher.java:79)
+! at org.glassfish.jersey.server.model.ResourceMethodInvoker.invoke(ResourceMethodInvoker.java:469)
+! at org.glassfish.jersey.server.model.ResourceMethodInvoker.apply(ResourceMethodInvoker.java:391)
+! at org.glassfish.jersey.server.model.ResourceMethodInvoker.apply(ResourceMethodInvoker.java:80)
+! at org.glassfish.jersey.server.ServerRuntime$1.run(ServerRuntime.java:255)
+! at org.glassfish.jersey.internal.Errors$1.call(Errors.java:248)
+! at org.glassfish.jersey.internal.Errors$1.call(Errors.java:244)
+! at org.glassfish.jersey.internal.Errors.process(Errors.java:292)
+! at org.glassfish.jersey.internal.Errors.process(Errors.java:274)
+! at org.glassfish.jersey.internal.Errors.process(Errors.java:244)
+! at org.glassfish.jersey.process.internal.RequestScope.runInScope(RequestScope.java:265)
+! at org.glassfish.jersey.server.ServerRuntime.process(ServerRuntime.java:234)
+! at org.glassfish.jersey.server.ApplicationHandler.handle(ApplicationHandler.java:680)
+! at org.glassfish.jersey.servlet.WebComponent.serviceImpl(WebComponent.java:394)
+! at org.glassfish.jersey.servlet.WebComponent.service(WebComponent.java:346)
+! at org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:366)
+! at org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:319)
+! at org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:205)
+! at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:763)
+! at org.eclipse.jetty.servlet.ServletHandler$ChainEnd.doFilter(ServletHandler.java:1633)
+! at io.dropwizard.servlets.ThreadNameFilter.doFilter(ThreadNameFilter.java:35)
+! at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:193)
+! at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1609)
+! at io.dropwizard.jersey.filter.AllowedMethodsFilter.handle(AllowedMethodsFilter.java:47)
+! at io.dropwizard.jersey.filter.AllowedMethodsFilter.doFilter(AllowedMethodsFilter.java:41)
+! at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:193)
+! at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1609)
+! at com.tomi.shop.filter.CORSFilter.doFilter(CORSFilter.java:24)
+! at org.eclipse.jetty.servlet.FilterHolder.doFilter(FilterHolder.java:193)
+! at org.eclipse.jetty.servlet.ServletHandler$Chain.doFilter(ServletHandler.java:1609)
+! at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:561)
+! at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+! at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1434)
+! at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188)
+! at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:501)
+! at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186)
+! at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1349)
+! at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+! at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+! at com.codahale.metrics.jetty9.InstrumentedHandler.handle(InstrumentedHandler.java:313)
+! at io.dropwizard.jetty.RoutingHandler.handle(RoutingHandler.java:52)
+! at org.eclipse.jetty.server.handler.gzip.GzipHandler.handle(GzipHandler.java:766)
+! at org.eclipse.jetty.server.handler.RequestLogHandler.handle(RequestLogHandler.java:54)
+! at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:179)
+! at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+! at org.eclipse.jetty.server.Server.handle(Server.java:516)
+! at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383)
+! at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556)
+! at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375)
+! at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273)
+! at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+! at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+! at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+! at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:773)
+! at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:905)
+! at java.base/java.lang.Thread.run(Thread.java:834)
+INFO  [2020-11-15 13:38:49,842] org.eclipse.jetty.server.AbstractConnector: Stopped application@2c6efee3{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+INFO  [2020-11-15 13:38:49,844] org.eclipse.jetty.server.AbstractConnector: Stopped admin@57ac236a{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+INFO  [2020-11-15 13:38:49,845] org.eclipse.jetty.server.handler.ContextHandler: Stopped i.d.j.MutableServletContextHandler@3f7d73e3{/,null,STOPPED}
+INFO  [2020-11-15 13:38:49,852] org.eclipse.jetty.server.handler.ContextHandler: Stopped i.d.j.MutableServletContextHandler@4b6942a0{/,null,STOPPED}
+INFO  [2020-11-15 15:36:34,394] io.dropwizard.server.DefaultServerFactory: Registering jersey handler with root path prefix: /
+INFO  [2020-11-15 15:36:34,398] io.dropwizard.server.DefaultServerFactory: Registering admin handler with root path prefix: /
+INFO  [2020-11-15 15:36:34,586] org.hibernate.Version: HHH000412: Hibernate ORM core version 5.4.23.Final
+INFO  [2020-11-15 15:36:34,909] io.dropwizard.hibernate.SessionFactoryFactory: Entity classes: [com.tomi.shop.core.Product]
+INFO  [2020-11-15 15:36:34,953] org.hibernate.annotations.common.Version: HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+INFO  [2020-11-15 15:36:36,025] org.hibernate.dialect.Dialect: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+INFO  [2020-11-15 15:36:50,934] io.dropwizard.server.ServerFactory: Starting shop-app
+INFO  [2020-11-15 15:36:51,094] org.eclipse.jetty.setuid.SetUIDListener: Opened application@2fc0ad21{HTTP/1.1, (http/1.1)}{0.0.0.0:53149}
+INFO  [2020-11-15 15:36:51,094] org.eclipse.jetty.setuid.SetUIDListener: Opened admin@639cb0c8{HTTP/1.1, (http/1.1)}{0.0.0.0:53150}
+INFO  [2020-11-15 15:36:51,098] org.eclipse.jetty.server.Server: jetty-9.4.33.v20201020; built: 2020-10-20T23:39:24.803Z; git: 1be68755656cef678b79a2ef1c2ebbca99e25420; jvm 11.0.2+9
+INFO  [2020-11-15 15:36:52,110] io.dropwizard.jersey.DropwizardResourceConfig: The following paths were found for the configured resources:
+
+    GET     /products (com.tomi.shop.resources.ProductResource)
+
+INFO  [2020-11-15 15:36:52,114] org.eclipse.jetty.server.handler.ContextHandler: Started i.d.j.MutableServletContextHandler@506654fa{/,null,AVAILABLE}
+INFO  [2020-11-15 15:36:52,119] io.dropwizard.setup.AdminEnvironment: tasks = 
+
+    POST    /tasks/log-level (io.dropwizard.servlets.tasks.LogConfigurationTask)
+    POST    /tasks/gc (io.dropwizard.servlets.tasks.GarbageCollectionTask)
+
+INFO  [2020-11-15 15:36:52,120] org.eclipse.jetty.server.handler.ContextHandler: Started i.d.j.MutableServletContextHandler@45775a15{/,null,AVAILABLE}
+INFO  [2020-11-15 15:36:52,138] org.eclipse.jetty.server.AbstractConnector: Started application@2fc0ad21{HTTP/1.1, (http/1.1)}{0.0.0.0:53149}
+INFO  [2020-11-15 15:36:52,141] org.eclipse.jetty.server.AbstractConnector: Started admin@639cb0c8{HTTP/1.1, (http/1.1)}{0.0.0.0:53150}
+INFO  [2020-11-15 15:36:52,142] org.eclipse.jetty.server.Server: Started @77038ms
+INFO  [2020-11-15 15:36:56,159] liquibase.executor.jvm.JdbcExecutor: SELECT COUNT(*) FROM test.DATABASECHANGELOGLOCK
+INFO  [2020-11-15 15:36:56,194] liquibase.executor.jvm.JdbcExecutor: CREATE TABLE test.DATABASECHANGELOGLOCK (ID INT NOT NULL, `LOCKED` BIT(1) NOT NULL, LOCKGRANTED datetime NULL, LOCKEDBY VARCHAR(255) NULL, CONSTRAINT PK_DATABASECHANGELOGLOCK PRIMARY KEY (ID))
+INFO  [2020-11-15 15:36:56,287] liquibase.executor.jvm.JdbcExecutor: SELECT COUNT(*) FROM test.DATABASECHANGELOGLOCK
+INFO  [2020-11-15 15:36:56,317] liquibase.executor.jvm.JdbcExecutor: DELETE FROM test.DATABASECHANGELOGLOCK
+INFO  [2020-11-15 15:36:56,324] liquibase.executor.jvm.JdbcExecutor: INSERT INTO test.DATABASECHANGELOGLOCK (ID, `LOCKED`) VALUES (1, 0)
+INFO  [2020-11-15 15:36:56,340] liquibase.executor.jvm.JdbcExecutor: SELECT `LOCKED` FROM test.DATABASECHANGELOGLOCK WHERE ID=1
+INFO  [2020-11-15 15:36:56,363] liquibase.lockservice.StandardLockService: Successfully acquired change log lock
+INFO  [2020-11-15 15:36:57,024] liquibase.changelog.StandardChangeLogHistoryService: Creating database history table with name: test.DATABASECHANGELOG
+INFO  [2020-11-15 15:36:57,027] liquibase.executor.jvm.JdbcExecutor: CREATE TABLE test.DATABASECHANGELOG (ID VARCHAR(255) NOT NULL, AUTHOR VARCHAR(255) NOT NULL, FILENAME VARCHAR(255) NOT NULL, DATEEXECUTED datetime NOT NULL, ORDEREXECUTED INT NOT NULL, EXECTYPE VARCHAR(10) NOT NULL, MD5SUM VARCHAR(35) NULL, `DESCRIPTION` VARCHAR(255) NULL, COMMENTS VARCHAR(255) NULL, TAG VARCHAR(255) NULL, LIQUIBASE VARCHAR(20) NULL, CONTEXTS VARCHAR(255) NULL, LABELS VARCHAR(255) NULL, DEPLOYMENT_ID VARCHAR(10) NULL)
+INFO  [2020-11-15 15:36:57,144] liquibase.executor.jvm.JdbcExecutor: SELECT COUNT(*) FROM test.DATABASECHANGELOG
+INFO  [2020-11-15 15:36:57,156] liquibase.changelog.StandardChangeLogHistoryService: Reading from test.DATABASECHANGELOG
+INFO  [2020-11-15 15:36:57,157] liquibase.executor.jvm.JdbcExecutor: SELECT * FROM test.DATABASECHANGELOG ORDER BY DATEEXECUTED ASC, ORDEREXECUTED ASC
+INFO  [2020-11-15 15:36:57,173] liquibase.executor.jvm.JdbcExecutor: SELECT COUNT(*) FROM test.DATABASECHANGELOGLOCK
+INFO  [2020-11-15 15:36:57,237] liquibase.executor.jvm.JdbcExecutor: CREATE TABLE test.products (id BIGINT AUTO_INCREMENT NOT NULL, name VARCHAR(255) NOT NULL, `description` VARCHAR(255) NOT NULL, picture_url VARCHAR(255) NOT NULL, price DECIMAL(10, 2) NOT NULL, qty_in_stock INT NOT NULL, CONSTRAINT PK_PRODUCTS PRIMARY KEY (id))
+INFO  [2020-11-15 15:36:57,292] liquibase.changelog.ChangeSet: Table products created
+INFO  [2020-11-15 15:36:57,294] liquibase.changelog.ChangeSet: ChangeSet migrations.xml::1::tomi ran successfully in 65ms
+INFO  [2020-11-15 15:36:57,297] liquibase.executor.jvm.JdbcExecutor: SELECT MAX(ORDEREXECUTED) FROM test.DATABASECHANGELOG
+INFO  [2020-11-15 15:36:57,302] liquibase.executor.jvm.JdbcExecutor: INSERT INTO test.DATABASECHANGELOG (ID, AUTHOR, FILENAME, DATEEXECUTED, ORDEREXECUTED, MD5SUM, `DESCRIPTION`, COMMENTS, EXECTYPE, CONTEXTS, LABELS, LIQUIBASE, DEPLOYMENT_ID) VALUES ('1', 'tomi', 'migrations.xml', NOW(), 1, '8:c75d52e1894314e525e04a4d0ff2d760', 'createTable tableName=products', '', 'EXECUTED', NULL, NULL, '3.10.2', '5454617186')
+INFO  [2020-11-15 15:36:57,334] liquibase.lockservice.StandardLockService: Successfully released change log lock
+INFO  [2020-11-15 15:36:59,930] org.hibernate.engine.internal.StatisticalLoggingSessionEventListener: Session Metrics {
+    58246 nanoseconds spent acquiring 1 JDBC connections;
+    46780 nanoseconds spent releasing 1 JDBC connections;
+    14507711 nanoseconds spent preparing 1 JDBC statements;
+    14823329 nanoseconds spent executing 1 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    82961 nanoseconds spent executing 1 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+INFO  [2020-11-15 15:37:04,689] org.eclipse.jetty.server.AbstractConnector: Stopped application@2fc0ad21{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+INFO  [2020-11-15 15:37:04,689] org.eclipse.jetty.server.AbstractConnector: Stopped admin@639cb0c8{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+INFO  [2020-11-15 15:37:04,691] org.eclipse.jetty.server.handler.ContextHandler: Stopped i.d.j.MutableServletContextHandler@45775a15{/,null,STOPPED}
+INFO  [2020-11-15 15:37:04,699] org.eclipse.jetty.server.handler.ContextHandler: Stopped i.d.j.MutableServletContextHandler@506654fa{/,null,STOPPED}

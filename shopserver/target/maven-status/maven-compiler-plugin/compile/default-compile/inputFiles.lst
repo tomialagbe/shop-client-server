@@ -1,0 +1,7 @@
+/Users/tomi/dev/shopserver/src/main/java/com/tomi/shop/filter/CORSFilter.java
+/Users/tomi/dev/shopserver/src/main/java/com/tomi/shop/resources/ProductResource.java
+/Users/tomi/dev/shopserver/src/main/java/com/tomi/shop/ShopApp.java
+/Users/tomi/dev/shopserver/src/main/java/com/tomi/shop/ShopAppConfiguration.java
+/Users/tomi/dev/shopserver/src/main/java/com/tomi/shop/core/Product.java
+/Users/tomi/dev/shopserver/src/main/java/com/tomi/shop/db/DBSeeder.java
+/Users/tomi/dev/shopserver/src/main/java/com/tomi/shop/db/ProductDAO.java
