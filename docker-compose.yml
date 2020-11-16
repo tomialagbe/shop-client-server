@@ -5,10 +5,3 @@ services:
     build: shopserver
     ports:
       - "8080:8080"
-
-  client:
-    build: phone-shop
-    ports:
-      - "3000:3000"
-
-
